@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Altairu/Altairu/main/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    
